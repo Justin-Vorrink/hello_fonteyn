@@ -1,2 +1,2 @@
 # hello_fonteyn
-first project using GoLang
+first project using GoLang and Git
